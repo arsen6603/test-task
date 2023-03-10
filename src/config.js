@@ -1,3 +1,3 @@
 module.exports = {
-    baseUrl: 'https://hacker-news.firebaseio.com/v0/'
+    baseUrl: 'https://hacker-news.firebaseio.com/v0'
 }
